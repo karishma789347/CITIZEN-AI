@@ -1,13 +1,7 @@
----
 
 # 🌟 CITIZEN-AI
 
 **CITIZEN-AI** is an intelligent system designed to empower citizens by leveraging Artificial Intelligence to bridge the gap between people and government services.
-
-![GitHub repo size](https://img.shields.io/github/repo-size/karishma789347/CITIZEN-AI?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/karishma789347/CITIZEN-AI?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/karishma789347/CITIZEN-AI?style=flat-square)
-![License](https://img.shields.io/github/license/karishma789347/CITIZEN-AI?style=flat-square)
 
 ---
 
